@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 
 做了修改，啦啦啦
+
+Creating a new branch is quick.
